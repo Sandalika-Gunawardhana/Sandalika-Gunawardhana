@@ -1,185 +1,197 @@
-# Sandalika Gunawardhana — GitHub Profile README
+ <div align="center">
 
-<div align="center">
-
-<a href="https://github.com/Sandalika-Gunawardhana">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:101827,50:172B43,100:164E63&height=170&section=header&text=SANDALIKA%20GUNAWARDHANA&fontSize=32&fontColor=EAF6FF&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%7C%20BACKEND%20%26%20FULL-STACK%20DEVELOPMENT&descSize=12&descAlignY=65&descColor=9EDCE8" width="100%" alt="Sandalika Gunawardhana profile banner"/>
-</a>
-
-### Building reliable software. Designing systems that scale.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sandalika-Gunawardhana)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandalika-gunawardhana/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sandalikagunawardhana@gmail.com)
-
-</div>
-
----
-
-## 01 / About
-
-I'm **Sandalika Gunawardhana**, a Computer Science undergraduate at the **Sri Lanka Institute of Information Technology (SLIIT)** and a Software Engineer with hands-on experience in backend and full-stack development.
-
-I enjoy designing maintainable software, building RESTful APIs, exploring software architecture, and transforming technical requirements into practical applications.
-
-My engineering experience includes delivering production features across Angular and .NET applications, implementing Clean Architecture principles, writing automated unit tests, and working with cloud deployment environments.
-
-Currently interested in:
-
-- Backend engineering and scalable application architecture.
-- Clean Architecture, SOLID principles and design patterns.
-- REST API development and database engineering.
-- Automated testing and software quality.
-- Cloud infrastructure and DevOps practices.
-
----
-
-## 02 / Technology Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cs,kotlin,sql&perline=8" alt="Programming languages"/>
-
-### Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=spring,dotnet,angular,react,nextjs&perline=8" alt="Frameworks and libraries"/>
-
-### Cloud, Databases & Tools
-
-<img src="https://skillicons.dev/icons?i=azure,aws,firebase,mysql,git,github,postman,figma,androidstudio&perline=9" alt="Cloud platforms and development tools"/>
-
-</div>
-
----
-
-## 03 / Engineering Experience
-
-**Software Engineer Intern — Hayleys Advantis MIT Global Solutions**
-
-`February 2026 – August 2026`
-
-- Delivered 10+ production features across Angular and .NET applications.
-- Applied Clean Architecture principles to improve maintainability and testability.
-- Developed and maintained automated unit tests using xUnit.
-- Worked with Agile development workflows, Azure deployments and Grafana monitoring.
-
----
-
-## 04 / Selected Projects
-
-### Sherine Travels — Vehicle Rental Management System
-
-**.NET · Next.js · Azure · PostgreSQL · Swagger**
-
-A full-stack vehicle rental management platform built around modular architecture and role-based access control.
-
-- Designed a modular backend using Clean Architecture and Repository Pattern.
-- Implemented authentication and authorization using .NET Identity.
-- Developed REST API endpoints and API documentation using Swagger.
-- Configured Azure CI/CD and cloud deployment.
-
-[Explore Repository →](https://github.com/Sandalika-Gunawardhana/Sherine_Travels_Vehicle_Rental_Management_System)
-
----
-
-### Penny Pilot — Personal Finance Tracker
-
-**Kotlin · Android · Firebase**
-
-A native mobile finance application focused on personal financial management.
-
-- Expense, income and savings tracking.
-- Financial goals and reminders.
-- Firebase integration for backend data synchronization.
-- Home-screen widgets and engagement features.
-
-[Explore Repository →](https://github.com/Sandalika-Gunawardhana/personal-finance-manager-app)
-
----
-
-### Quantum Exoplanet Detection Lab
-
-**Angular · TypeScript · ASP.NET Core · Chart.js**
-
-An interactive scientific application exploring exoplanet detection through simulated stellar brightness signals.
-
-- Generates simulated stellar light-curve data.
-- Analyzes potential transit patterns.
-- Visualizes brightness changes through interactive charts.
-- Integrates frontend and backend detection services.
-
-[Explore Repository →](https://github.com/Sandalika-Gunawardhana/Quantum-Exoplanet-Detection-Lab)
-
----
-
-### Neural Network Forward & Backward Propagation
-
-**Python · OpenMP · MPI · CUDA**
-
-An implementation exploring parallel approaches to neural network computation.
-
-- Serial neural network implementation.
-- Shared-memory parallelization using OpenMP.
-- Distributed computation using MPI.
-- GPU acceleration using CUDA.
-- Performance and scalability evaluation.
-
-[Explore Repository →](https://github.com/Sandalika-Gunawardhana/Neural-Network-Forward-Backward-Propagation)
-
----
-
-## 05 / Engineering Principles
-
-| Area | Focus |
-|:---|:---|
-| Architecture | Clean Architecture, Repository Pattern |
-| Backend | REST APIs, Business Logic, Authentication |
-| Development | OOP, SOLID, Data Structures & Algorithms |
-| Quality | Unit Testing, xUnit, Code Reviews |
-| Database | Relational Database Design, SQL |
-| Delivery | Agile, CI/CD, Cloud Deployment |
-
----
-
-## 06 / GitHub Insights
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sandalika-Gunawardhana&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandalika-Gunawardhana&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used programming languages"/>
-
-</div>
-
----
-
-## 07 / Education
-
-**BSc (Hons) in Computer Science**
-
-Sri Lanka Institute of Information Technology (SLIIT)
-
-`2023 – 2027`
-
-Relevant areas: Machine Learning, Intelligent Systems, Data Structures & Algorithms, Database Management Systems and Operating Systems.
-
----
-
-## 08 / Let's Connect
-
-I'm always interested in discussing software engineering, backend architecture, interesting technical challenges and collaborative projects.
-
-<div align="center">
-
-**Have an interesting idea? Let's build something meaningful.**
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandalika-gunawardhana/)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandalikagunawardhana@gmail.com)
+<!-- ENGINEERING HEADER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:101923,100:1B2938&height=190&section=header&text=SANDALIKA%20GUNAWARDHANA&fontSize=34&fontColor=E7EDF2&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%7C%20SYSTEMS%20THINKER&descSize=13&descColor=00B8D9&descAlignY=65" />
 
 <br/>
 
-<sub>Designed with precision. Built with purpose.</sub>
+`ENGINEERING PORTFOLIO` &nbsp; / &nbsp; `SOFTWARE SYSTEMS` &nbsp; / &nbsp; `2026`
+
+# Building Reliable Software.<br/>Engineering Better Systems.
+
+**Computer Science Undergraduate | Software Engineer**
+
+Designing maintainable applications, exploring system architecture, and turning technical ideas into practical software solutions.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandalika-gunawardhana/)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Sandalika-Gunawardhana)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sandalikagunawardhana@gmail.com)
+
+</div>
+
+---
+
+## `01 / ENGINEER PROFILE`
+
+I am a Computer Science undergraduate at **Sri Lanka Institute of Information Technology (SLIIT)** with a strong interest in software engineering, application development, and system design.
+
+My engineering interests include:
+
+- Building scalable and maintainable software applications.
+- Designing backend services and RESTful APIs.
+- Developing modern frontend applications.
+- Applying software engineering principles and clean architecture.
+- Improving software quality through testing and monitoring.
+
+I value practical problem-solving, continuous learning, and engineering solutions that address real-world requirements.
+
+---
+
+## `02 / TECHNICAL CAPABILITIES`
+
+### Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,cs,c,kotlin&theme=dark" />
+</p>
+
+### Frontend Engineering
+
+<p>
+<img src="https://skillicons.dev/icons?i=angular,react,html,css,bootstrap&theme=dark" />
+</p>
+
+### Backend & Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,spring,nodejs,fastapi&theme=dark" />
+</p>
+
+### Databases & Infrastructure
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,azure,linux&theme=dark" />
+</p>
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea&theme=dark" />
+</p>
+
+---
+
+## `03 / PROFESSIONAL EXPERIENCE`
+
+### Software Engineer Intern
+
+**Hayleys Advantis MIT Global Solutions**  
+`February 2026 – August 2026`
+
+Worked on production-oriented software development across Angular and .NET applications.
+
+**Engineering exposure:**
+
+- Developed and enhanced application features across frontend and backend layers.
+- Worked with Clean Architecture principles.
+- Implemented automated unit tests using xUnit.
+- Gained experience with Agile development practices.
+- Worked with Azure deployment workflows and Grafana monitoring.
+
+---
+
+## `04 / SYSTEMS ENGINEERED`
+
+A selection of software projects demonstrating application development, problem-solving, and technical exploration.
+
+### 01 — Sherine Travels
+**Vehicle Rental Management System**
+
+A software solution focused on vehicle rental management and related business operations.
+
+`Software Development` `Web Application`
+
+[VIEW SOURCE CODE →](https://github.com/Sandalika-Gunawardhana/Sherine_Travels_Vehicle_Rental_Management_System)
+
+---
+
+### 02 — Penny Pilot
+**Personal Finance Management Application**
+
+A project focused on personal finance management and organizing financial activities.
+
+`Application Development` `Financial Management`
+
+[VIEW SOURCE CODE →](https://github.com/Sandalika-Gunawardhana/personal-finance-manager-app)
+
+---
+
+### 03 — Quantum Exoplanet Detection Lab
+**Scientific Data Visualization & Analysis**
+
+An interactive platform for exploring simulated exoplanet transit signals and potential detection patterns.
+
+`Angular` `TypeScript` `ASP.NET Core` `Chart.js` `Docker`
+
+[VIEW SOURCE CODE →](https://github.com/Sandalika-Gunawardhana/Quantum-Exoplanet-Detection-Lab)
+
+---
+
+### 04 — Neural Network Forward & Backward Propagation
+**Parallel Computing & Neural Network Implementation**
+
+An exploration of neural network computation and performance across different parallel processing approaches.
+
+`Python` `OpenMP` `MPI` `CUDA`
+
+[VIEW SOURCE CODE →](https://github.com/Sandalika-Gunawardhana/Neural-Network-Forward-Backward-Propagation)
+
+---
+
+## `05 / ENGINEERING PRINCIPLES`
+
+| Principle | Engineering approach |
+|:---|:---|
+| Architecture | Design modular and maintainable systems |
+| Code Quality | Prioritize readability and clean code |
+| Testing | Validate functionality through automated testing |
+| Performance | Consider efficiency and scalability |
+| Collaboration | Work through structured development workflows |
+| Learning | Continuously explore new engineering practices |
+
+---
+
+## `06 / DEVELOPMENT METRICS`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sandalika-Gunawardhana&show_icons=true&hide_border=true&bg_color=101923&title_color=00B8D9&text_color=E7EDF2&icon_color=00B8D9&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandalika-Gunawardhana&layout=compact&hide_border=true&bg_color=101923&title_color=00B8D9&text_color=E7EDF2" />
+
+<br/>
+
+<img width="85%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sandalika-Gunawardhana&bg_color=101923&color=00B8D9&line=00B8D9&point=E7EDF2&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## `07 / EDUCATION`
+
+**Sri Lanka Institute of Information Technology (SLIIT)**
+
+BSc (Hons) in Computer Science  
+`2023 – 2027`
+
+---
+
+## `08 / CONNECT`
+
+Interested in software engineering, collaborative development, and building meaningful technology.
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandalika-gunawardhana/)
+[![GitHub](https://img.shields.io/badge/EXPLORE_GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sandalika-Gunawardhana)
+[![Email](https://img.shields.io/badge/CONTACT_BY_EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sandalikagunawardhana@gmail.com)
+
+<br/>
+
+<sub>ENGINEERED WITH PRECISION · BUILT WITH PURPOSE</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1B2938,100:101923&height=55&section=footer" />
 
 </div>
